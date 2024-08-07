@@ -3,9 +3,13 @@ Welcome to the Recipe App – your ultimate culinary companion! This app is desi
 
 ## ✨ Features
 📝 Recipe List: Browse through a variety of mouth-watering recipes.
+
 🔍 Explore: Discover new and exciting recipes to try.
+
 ❤️ Favorites: Save your favorite recipes for quick access.
+
 📊 Ratings & Likes: Rate recipes and see what others love.
+
 📱 Local Storage: Keep your recipes available offline.
 
 ## 🚀 Installation
